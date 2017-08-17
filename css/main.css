@@ -1,26 +1,21 @@
 .navbar *{
     background-color: aqua;
 }
-<<<<<<< HEAD
 
 .my-class {
 	width: 200px;
 	height: 200px;
 }
-=======
 h1 {
 	font: 500 200px/1.5 'Pacifico', Helvetica, sans-serif;
   color: coral;
   text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
 }
-<<<<<<< HEAD
 
 .my-nav {
 
 	border:solid;
 }
-=======
-<<<<<<< HEAD
 
 .img-circle {
 	width:300px;
@@ -28,7 +23,4 @@ h1 {
 }
 
 
-=======
->>>>>>> origin/master
->>>>>>> origin/master
->>>>>>> origin/master
+
