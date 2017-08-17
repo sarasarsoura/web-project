@@ -1,8 +1,26 @@
 .navbar *{
-    background-color: 0000ff;
+    background-color: aqua;
 }
+<<<<<<< HEAD
 
 .my-class {
 	width: 200px;
 	height: 200px;
 }
+=======
+h1 {
+	font: 500 200px/1.5 'Pacifico', Helvetica, sans-serif;
+  color: coral;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
+}
+<<<<<<< HEAD
+
+.img-circle {
+	width:300px;
+	height:300px;
+}
+
+
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
